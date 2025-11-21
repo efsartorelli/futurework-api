@@ -18,9 +18,8 @@ Toda a solução foi desenvolvida atendendo aos requisitos de:
 1. INTEGRANTES DO GRUPO 👥
 --------------------------------------------------
 
-- Nome 1 – RM XXXXX
-- Nome 2 – RM XXXXX
-- Nome 3 – RM XXXXX
+- Nome 1 – RM 94524 - Eduardo de Oliveira Nistal
+- Nome 2 – RM 94618 - Enzo Vazquez Sartorelli
 
 
 2. TEMA E OBJETIVO DO PROJETO 🎯
@@ -416,8 +415,6 @@ Caso a API seja publicada em um ambiente de cloud (item opcional do trabalho), p
    - Fluxo da aplicação em Draw.io (docs/fluxo-futurework.drawio)
    - Documentação da API com Swagger (/swagger)
    - Vídeo demonstrando funcionamento integrado (link no README)
-
-TOTAL: 100 pts 😄
 
 
 FIM ✅
