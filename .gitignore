@@ -1,0 +1,19 @@
+# Build .NET
+bin/
+obj/
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# SQLite
+*.db-shm
+*.db-wal
+
+# Outros backups temporários
+*.tmp
+*.bak
